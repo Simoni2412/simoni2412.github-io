@@ -1,0 +1,7 @@
+My name is Simoni Shah, and I am a Data Scientist with over three years of experience in machine learning, artificial intelligence, and statistical analysis. I hold a Master's degree in Data Science from the Illinois Institute of Technology and a Bachelor's in Computer Engineering from Gujarat Technical University.
+
+Throughout my career, I have worked extensively in the insurance and technology sectors, developing and deploying machine learning models that drive business impact. Currently, I am working at Cloud Big Data Technology, where I focus on integrating advanced statistical methods and building scalable data pipelines for anomaly detection and process optimization. Previously, I was a Data Scientist II at Homesite Insurance, where I played a key role in enterprise-wide anomaly detection and retention rate analysis.
+
+I have strong expertise in Python, SQL, and cloud platforms like GCP and AWS. I also have experience with visualization tools such as Tableau and Looker, enabling me to translate complex data into meaningful insights for stakeholders. My skill set includes supervised and unsupervised learning, time series analysis, and GLMs, among other machine learning techniques.
+
+I thrive in collaborative environments and enjoy tackling complex data challenges to drive business decisions. I look forward to applying my expertise to innovative projects and contributing to data-driven solutions
